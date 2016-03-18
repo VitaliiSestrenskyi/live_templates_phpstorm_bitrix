@@ -23,10 +23,3 @@ ___Linux:___  ~/.WebIdeXX/config/templates that contains user-specific settings.
 
 ___Mac OS:___  ~/Library/Preferences/WebIdeXX/templates
 
-
-### P.S.:
-Предложения как улучшить сниппеты для Eclipse писать в [Issues](https://github.com/matiaspub/bxCompSnpt/issues) с примером, а лучше с экспортированным шаблоном одного сниппета.
-
-## Контакты
-+ [https://twitter.com/matiaspub](https://twitter.com/matiaspub)
-+ matiaspub@gmail.com
